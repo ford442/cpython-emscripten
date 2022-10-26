@@ -1,4 +1,4 @@
-PYVERSION=3.6.7
+PYVERSION=3.7
 PYMINOR=$(basename $(PYVERSION))
 
 CC=emcc
